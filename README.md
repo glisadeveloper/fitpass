@@ -31,9 +31,11 @@ php artisan migrate
 ### Database Seeding
 
 * Run the following command to seed the database with dummy members contents.
+
 php artisan db:seed --class=MemberSeeder
 
 * Finally run the last commands to seed the database with dummy gyms content
+
 php artisan db:seed --class=GymSeeder
 
 ### Run project via composer
