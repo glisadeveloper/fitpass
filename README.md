@@ -26,6 +26,7 @@ cd into the project directory via terminal and run the following command to inst
 ### Run Migration
 
 * then run the following command to create migrations in the databbase.
+
 php artisan migrate
 
 ### Database Seeding
